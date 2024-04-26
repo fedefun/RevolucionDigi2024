@@ -1,0 +1,43 @@
+/* Test numero 1 de css */
+/* El * antes del selector es para todo el codigo. Por ejemplo::after
+Todo tendar fondo azul
+*{
+    background-color: blue 
+}    
+*/
+
+
+.lunes {
+    background-color: #ffcccc;
+            color: #333;
+}
+
+.martes {
+    background-color: #cce5ff;
+    color: #333;
+}
+
+.miercoles {
+    background-color: #ccffcc;
+    color: #333;
+}
+
+.jueves {
+    background-color: #fff5cc;
+    color: #333;
+}
+
+.viernes {
+    background-color: #d9ccff;
+    color: #333;
+}
+
+.sabado {
+    background-color: #ffccff;
+    color: #333;
+}
+
+.domingo {
+    background-color: #ccccff;
+    color: #333;
+}
